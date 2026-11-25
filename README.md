@@ -1,78 +1,73 @@
-<!-- Rafael Poles® · README de perfil / rpoless -->
+<!-- Rafael Poles · README de perfil / rpoles12 -->
 
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Rafael Poles® — Design, web e IA. Branding, interfaces e projetos digitais." />
+  <img src="./assets/header.png" width="100%" alt="Rafael Poles® — Marcas, sites e interfaces. São Paulo, Brasil." />
 </p>
 
 <p align="center">
+  <a href="https://rpoles12.github.io/site-ruptive/"><img src="./assets/button-ruptive.svg" width="155" height="42" alt="Ruptive — meu estúdio" /></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/rafael-poles-bb69a1251/"><img src="./assets/button-linkedin.svg" width="155" height="42" alt="LinkedIn" /></a>
   &nbsp;
   <a href="https://www.behance.net/rafaeldesign1"><img src="./assets/button-behance.svg" width="155" height="42" alt="Behance" /></a>
   &nbsp;
-  <a href="mailto:rafaelpolesdesign@gmail.com"><img src="./assets/button-email.svg" width="140" height="42" alt="E-mail" /></a>
+  <a href="mailto:rafaelpolesdesign@gmail.com"><img src="./assets/button-email.svg" width="155" height="42" alt="E-mail" /></a>
 </p>
 
 <br>
 
-## `01` Sobre
+## [01] Sobre
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>Trabalho com design e criação de sites.</h3>
-      <p>Sou <strong>Rafael Poles®</strong>. Desenvolvo marcas, sites e interfaces, da identidade visual à implementação na web.</p>
-      <p>Uso IA para pesquisar, explorar ideias, programar e documentar projetos. Por aqui, compartilho aplicações, experimentos e o que estou construindo.</p>
-    </td>
-    <td width="35%" valign="top">
-      <p><strong>Ruptive®</strong><br>Atuação independente desde 2022.</p>
-      <p><strong>Multimídia · SENAI</strong><br>Conclusão prevista em 2026.</p>
-      <p><strong>Tatuí, SP · Brasil</strong><br>Português nativo.<br>Inglês intermediário.</p>
-    </td>
-  </tr>
-</table>
+Desenvolvo marcas, sites e interfaces. Uso IA na pesquisa, na prototipação e no desenvolvimento de projetos digitais.
+
+Aqui reúno aplicações, experimentos e projetos que conectam design e tecnologia.
 
 <br>
 
-## `02` Ferramentas
+## [02] Tecnologias e ferramentas
 
 <table>
   <tr>
-    <td width="30%" valign="top">
-      <h4>Web</h4>
+    <td width="70%" valign="top">
+      <h3>Web</h3>
       <p>
         <img src="./assets/icons/html.svg" width="48" height="48" alt="HTML" title="HTML" />
+        &nbsp;
         <img src="./assets/icons/css.svg" width="48" height="48" alt="CSS" title="CSS" />
-      </p>
-      <p><strong>HTML · CSS</strong><br>Implementação de sites e interfaces.</p>
-    </td>
-    <td width="40%" valign="top">
-      <h4>Em desenvolvimento</h4>
-      <p>
+        &nbsp;
         <img src="./assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
+        &nbsp;
         <img src="./assets/icons/react.svg" width="48" height="48" alt="React" title="React" />
+        &nbsp;
         <img src="./assets/icons/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js" />
       </p>
-      <p><strong>JavaScript · React · Node.js</strong><br>JavaScript básico; projetos com React e Node.js com assistência de IA.</p>
+      <p><strong>HTML · CSS · JavaScript · React · Node.js</strong></p>
+      <p>Do layout à implementação, com apoio de IA na prototipação e no desenvolvimento.</p>
     </td>
     <td width="30%" valign="top">
-      <h4>Ambiente</h4>
-      <p><img src="./assets/icons/vscode.svg" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code" /></p>
-      <p><strong>Visual Studio Code</strong><br>Criação, edição e organização dos projetos.</p>
+      <h3>Ambiente</h3>
+      <p>
+        <img src="./assets/icons/vscode.svg" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code" />
+        &nbsp;
+        <img src="./assets/icons/github.svg" width="48" height="48" alt="GitHub" title="GitHub" />
+      </p>
+      <p><strong>VS Code · GitHub</strong></p>
+      <p>Código, organização e documentação dos projetos.</p>
     </td>
   </tr>
 </table>
 
-### IA no processo
+### Inteligência artificial
 
 <p>
   <img src="./assets/ai-chatgpt.svg" width="172" height="60" alt="ChatGPT" />
   &nbsp;
   <img src="./assets/ai-codex.svg" width="172" height="60" alt="Codex" />
   &nbsp;
-  <img src="./assets/ai-claude.svg" width="172" height="60" alt="Claude — em estudo" />
+  <img src="./assets/ai-claude.svg" width="172" height="60" alt="Claude" />
 </p>
 
-**ChatGPT e Codex** no apoio à pesquisa, criação e desenvolvimento. **Claude** nos estudos de IA e programação assistida.
+Pesquisa, exploração de ideias, prototipação, apoio ao desenvolvimento e documentação.
 
 ### Design e audiovisual
 
@@ -81,62 +76,67 @@
   &nbsp;
   <img src="./assets/icons/photoshop.svg" width="48" height="48" alt="Adobe Photoshop" title="Adobe Photoshop" />
   &nbsp;
+  <img src="./assets/icons/indesign.svg" width="48" height="48" alt="Adobe InDesign" title="Adobe InDesign" />
+  &nbsp;
+  <img src="./assets/icons/lightroom.svg" width="48" height="48" alt="Adobe Lightroom" title="Adobe Lightroom" />
+  &nbsp;
   <img src="./assets/icons/after-effects.svg" width="48" height="48" alt="Adobe After Effects" title="Adobe After Effects" />
   &nbsp;
   <img src="./assets/icons/premiere.svg" width="48" height="48" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" />
+  &nbsp;
+  <img src="./assets/icons/media-encoder.svg" width="48" height="48" alt="Adobe Media Encoder" title="Adobe Media Encoder" />
 </p>
 
-**Illustrator · Photoshop · After Effects · Premiere Pro**<br>
-Também trabalho com Lightroom e InDesign. Minha experiência inclui branding, identidade visual e verbal, materiais gráficos, vídeo e motion design.
+**Illustrator · Photoshop · InDesign · Lightroom · After Effects · Premiere Pro · Media Encoder**
+
+Identidade visual, interfaces, materiais gráficos, fotografia, vídeo e motion design.
 
 <br>
 
-## `03` Projetos
+## [03] Projetos selecionados
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rpoless/halveo-dashboard"><img src="./assets/project-halveo.svg" width="100%" alt="Halveo — Dashboard. Marca aplicada à interface." /></a>
+      <a href="https://github.com/rpoles12/halveo-dashboard"><img src="./assets/project-halveo.png" width="100%" alt="Halveo Dashboard — inteligência operacional para recursos industriais" /></a>
       <h3>Halveo Dashboard</h3>
-      <p>Dashboard que leva a identidade da Halveo para uma interface web. Projeto de marca, aplicação digital e documentação para portfólio.</p>
+      <p>Protótipo de dashboard para monitorar recursos industriais, investigar desvios e acompanhar ações. Da identidade da marca à interface do produto.</p>
       <p><code>Dashboard</code> <code>Interface web</code> <code>Branding</code></p>
-      <p><a href="https://github.com/rpoless/halveo-dashboard"><strong>Explorar projeto ↗</strong></a></p>
+      <p><a href="https://github.com/rpoles12/halveo-dashboard"><strong>Explorar projeto ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rpoless/site-ia-obeko"><img src="./assets/project-obeko.svg" width="100%" alt="O BEKO — Scent AI. Marca, web e inteligência artificial." /></a>
+      <a href="https://github.com/rpoles12/site-ia-obeko"><img src="./assets/project-obeko.png" width="100%" alt="O BEKO — Scent AI, consultoria olfativa" /></a>
       <h3>O BEKO · Scent AI</h3>
-      <p>Projeto web no universo da perfumaria, explorando a relação entre identidade de marca, experiência digital e inteligência artificial.</p>
-      <p><code>Web design</code> <code>IA</code> <code>Experiência digital</code></p>
-      <p><a href="https://github.com/rpoless/site-ia-obeko"><strong>Explorar projeto ↗</strong></a></p>
+      <p>Site de perfumaria com catálogo e consultoria conversacional. Uma experiência guiada para descobrir fragrâncias a partir de preferências e perfil.</p>
+      <p><code>Web design</code> <code>Consultoria digital</code> <code>Interface</code></p>
+      <p><a href="https://github.com/rpoles12/site-ia-obeko"><strong>Explorar projeto ↗</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rpoles12/vig.ia-os"><img src="./assets/project-vigia.png" width="100%" alt="VIG.IA OS — O Arquivo Corrompido" /></a>
+      <h3>VIG.IA OS</h3>
+      <p>Sistema operacional fictício para um escape room. Documentos, pistas e uma assistente narrativa conduzem uma investigação por etapas.</p>
+      <p><code>Experiência interativa</code> <code>JavaScript</code> <code>Narrativa</code></p>
+      <p><a href="https://github.com/rpoles12/vig.ia-os"><strong>Explorar projeto ↗</strong></a> &nbsp; <a href="https://vigia-os-escape-room.vercel.app">Abrir experiência ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rpoles12/pilates-marcia"><img src="./assets/project-pilates.webp" width="100%" alt="Pilates da Márcia — movimento, cuidado e pequenas conquistas" /></a>
+      <h3>Pilates da Márcia</h3>
+      <p>Aplicação para organizar aulas de Pilates, registrar treinos e acompanhar a constância. Pensada para o celular, com calendário e progresso.</p>
+      <p><code>Mobile first</code> <code>JavaScript</code> <code>Design de produto</code></p>
+      <p><a href="https://github.com/rpoles12/pilates-marcia"><strong>Explorar projeto ↗</strong></a> &nbsp; <a href="https://pilates-marcia.vercel.app">Abrir aplicação ↗</a></p>
     </td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/rpoless?tab=repositories">Todos os repositórios ↗</a></p>
+<p align="right"><a href="https://github.com/rpoles12?tab=repositories">Todos os repositórios ↗</a></p>
 
 <br>
 
-## `04` Formação
+---
 
-**Técnico em Multimídia · SENAI Luiz Pagliato**<br>
-Sorocaba, SP · conclusão prevista em 2026 · parceria com o SESI em Tatuí.
+<p align="center"><strong>Vamos conversar.</strong></p>
+<p align="center"><a href="mailto:rafaelpolesdesign@gmail.com">rafaelpolesdesign@gmail.com ↗</a></p>
 
-<details>
-  <summary><strong>IA, desenvolvimento e outras formações ↓</strong></summary>
-  <br>
-
-| Instituição | Cursos e estudos |
-| :--- | :--- |
-| **Claude Academy** | AI Fluency · Claude Code 101 · Claude 101 |
-| **OpenAI** | Agents and Workflows · AI Foundations |
-| **SENAI** | Fundamentos da Inteligência Artificial · Marketing Digital com Inteligência Artificial · Microsoft Power BI |
-| **Overlens** | IA Lab |
-| **Design** | ID Class · Introdução ao design de logos · Design do universo gráfico de uma marca |
-
-</details>
-
-<br>
-
-<a href="mailto:rafaelpolesdesign@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Vamos conversar? rafaelpolesdesign@gmail.com — Rafael Poles®" /></a>
-
-<!-- Ícones: Skill Icons e Lobe Icons, sob licença MIT. Atribuições em assets/licenses/. -->
+<!-- Créditos dos ícones e das imagens: assets/README.md e assets/licenses/. -->
