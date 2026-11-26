@@ -1,12 +1,12 @@
 <!-- Rafael Poles · README de perfil / rpoles12 -->
 
 <p align="left">
-  <sub>DESIGN &nbsp; // &nbsp; WEB &nbsp; // &nbsp; IA</sub>
+  <strong>DESIGN &nbsp; // &nbsp; WEB &nbsp; // &nbsp; IA</strong>
 </p>
 
-<h1 align="left">Rafael Poles</h1>
+<h1 align="left">RAFAEL POLES<sup>®</sup></h1>
 
-<h3 align="left">Marcas, sites e interfaces.</h3>
+<h2 align="left">Marcas, sites<br>e interfaces.</h2>
 
 <p align="left">São Paulo, Brasil</p>
 
