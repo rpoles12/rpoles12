@@ -1,8 +1,16 @@
 <!-- Rafael Poles · README de perfil / rpoles12 -->
 
-<p align="center">
-  <img src="./assets/header.png" width="100%" alt="Rafael Poles® — Marcas, sites e interfaces. São Paulo, Brasil." />
+<p align="left">
+  <sub>DESIGN &nbsp; // &nbsp; WEB &nbsp; // &nbsp; IA</sub>
 </p>
+
+<h1 align="left">Rafael Poles</h1>
+
+<h3 align="left">Marcas, sites e interfaces.</h3>
+
+<p align="left">São Paulo, Brasil</p>
+
+<br>
 
 <p align="center">
   <a href="https://rpoles12.github.io/site-ruptive/"><img src="./assets/button-ruptive.svg" width="155" height="42" alt="Ruptive — meu estúdio" /></a>
