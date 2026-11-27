@@ -192,6 +192,45 @@ Identidade visual, interfaces, materiais gráficos, fotografia, vídeo e motion 
 
 ## [03] Projetos selecionados
 
+<p align="left">
+<a href="https://github.com/rpoles12/halveo-dashboard">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/project-halveo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light/project-halveo.svg">
+  <img src="./assets/light/project-halveo.svg" width="400" alt="Halveo Dashboard. Protótipo para monitorar recursos industriais, investigar desvios e acompanhar ações. Interface web e branding.">
+</picture>
+</a>
+&ensp;
+<a href="https://github.com/rpoles12/site-ia-obeko">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/project-obeko.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light/project-obeko.svg">
+  <img src="./assets/light/project-obeko.svg" width="400" alt="O BEKO · Scent AI. Catálogo de perfumes e consultoria conversacional para descobrir fragrâncias por perfil.">
+</picture>
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/rpoles12/vig.ia-os">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/project-vigia.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light/project-vigia.svg">
+  <img src="./assets/light/project-vigia.svg" width="400" alt="VIG.IA OS · O arquivo corrompido. Escape room com documentos, pistas e uma assistente narrativa em um sistema fictício.">
+</picture>
+</a>
+&ensp;
+<a href="https://github.com/rpoles12/pilates-marcia">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/project-pilates.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light/project-pilates.svg">
+  <img src="./assets/light/project-pilates.svg" width="400" alt="Pilates da Márcia. Aplicação para organizar aulas, registrar treinos e acompanhar calendário e progresso.">
+</picture>
+</a>
+</p>
+
+<details>
+<summary>Descrições dos projetos em texto</summary>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -222,6 +261,8 @@ Identidade visual, interfaces, materiais gráficos, fotografia, vídeo e motion 
     </td>
   </tr>
 </table>
+
+</details>
 
 <p align="left">
 <a href="https://vigia-os-escape-room.vercel.app">
@@ -257,8 +298,40 @@ Identidade visual, interfaces, materiais gráficos, fotografia, vídeo e motion 
 
 Vamos conversar.
 
-[rafaelpolesdesign@gmail.com](mailto:rafaelpolesdesign@gmail.com)
+<p>rafaelpolesdesign@gmail.com</p>
 
-[Ruptive](https://rpoles12.github.io/site-ruptive/) · [LinkedIn](https://www.linkedin.com/in/rafael-poles-bb69a1251/) · [Behance](https://www.behance.net/rafaeldesign1)
+<p align="left">
+<a href="https://rpoles12.github.io/site-ruptive/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/button-ruptive.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light/button-ruptive.svg">
+  <img src="./assets/light/button-ruptive.svg" width="156" alt="Ruptive">
+</picture>
+</a>
+&ensp;
+<a href="https://www.linkedin.com/in/rafael-poles-bb69a1251/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/button-linkedin.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light/button-linkedin.svg">
+  <img src="./assets/light/button-linkedin.svg" width="156" alt="LinkedIn">
+</picture>
+</a>
+&ensp;
+<a href="https://www.behance.net/rafaeldesign1">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/button-behance.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light/button-behance.svg">
+  <img src="./assets/light/button-behance.svg" width="156" alt="Behance">
+</picture>
+</a>
+&ensp;
+<a href="mailto:rafaelpolesdesign@gmail.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/button-email.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light/button-email.svg">
+  <img src="./assets/light/button-email.svg" width="156" alt="E-mail">
+</picture>
+</a>
+</p>
 
-<!-- Capas, ícones e botões reutilizam os assets existentes. O conteúdo principal permanece em Markdown/HTML nativo; a fonte dos textos segue o tema do GitHub. -->
+<!-- Capas, cards, ícones e botões reutilizam os assets existentes. O conteúdo principal e as descrições recolhíveis dos projetos permanecem em texto nativo. -->
