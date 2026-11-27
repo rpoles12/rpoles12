@@ -1,4 +1,4 @@
-<!-- Rafael Poles · Archivo Regular / monocromático / rpoles12 -->
+<!-- Rafael Poles · README híbrido: conteúdo nativo e elementos gráficos monocromáticos -->
 
 <p align="left">
 <picture>
@@ -44,41 +44,17 @@
 
 <br>
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/section-01.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/section-01.svg">
-  <img src="./assets/light/section-01.svg" width="540" alt="01 / Sobre">
-</picture>
-</p>
+## [01] Sobre
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/dark/about-mobile.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/light/about-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/about.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/about.svg">
-  <img src="./assets/light/about.svg" width="100%" alt="Desenvolvo marcas, sites e interfaces. Uso IA na pesquisa, na prototipação e no desenvolvimento de projetos digitais. Aqui reúno aplicações, experimentos e projetos que conectam design e tecnologia.">
-</picture>
-</p>
+Sou Rafael Poles. Desenvolvo marcas, sites e interfaces. Uso IA na pesquisa, na prototipação e no desenvolvimento de projetos digitais.
+
+Aqui reúno aplicações, experimentos e projetos que conectam design e tecnologia.
 
 <br>
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/section-02.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/section-02.svg">
-  <img src="./assets/light/section-02.svg" width="540" alt="02 / Ferramentas">
-</picture>
-</p>
+## [02] Ferramentas
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/label-web.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/label-web.svg">
-  <img src="./assets/light/label-web.svg" width="450" alt="Web e desenvolvimento">
-</picture>
-</p>
+### Web e desenvolvimento
 
 <p align="left">
 <picture>
@@ -112,23 +88,11 @@
 </picture>
 </p>
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/dark/web-note-mobile.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/light/web-note-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/web-note.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/web-note.svg">
-  <img src="./assets/light/web-note.svg" width="100%" alt="Do layout à implementação, com apoio de IA na prototipação e no desenvolvimento.">
-</picture>
-</p>
+HTML · CSS · JavaScript · React · Node.js
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/label-environment.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/label-environment.svg">
-  <img src="./assets/light/label-environment.svg" width="450" alt="Ambiente">
-</picture>
-</p>
+Do layout à implementação, com apoio de IA na prototipação e no desenvolvimento.
+
+### Ambiente
 
 <p align="left">
 <picture>
@@ -144,13 +108,11 @@
 </picture>
 </p>
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/label-ai.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/label-ai.svg">
-  <img src="./assets/light/label-ai.svg" width="450" alt="Inteligência artificial">
-</picture>
-</p>
+Visual Studio Code · GitHub
+
+Código, organização e documentação dos projetos.
+
+### Inteligência artificial
 
 <p align="left">
 <picture>
@@ -172,23 +134,11 @@
 </picture>
 </p>
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/dark/ai-note-mobile.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/light/ai-note-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/ai-note.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/ai-note.svg">
-  <img src="./assets/light/ai-note.svg" width="100%" alt="Pesquisa, exploração de ideias, prototipação, apoio ao desenvolvimento e documentação.">
-</picture>
-</p>
+ChatGPT · Codex · Claude
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/label-adobe.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/label-adobe.svg">
-  <img src="./assets/light/label-adobe.svg" width="450" alt="Design e audiovisual">
-</picture>
-</p>
+Pesquisa, exploração de ideias, prototipação, apoio ao desenvolvimento e documentação.
+
+### Design e audiovisual
 
 <p align="left">
 <picture>
@@ -234,61 +184,44 @@
 </picture>
 </p>
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/dark/adobe-note-mobile.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/light/adobe-note-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/adobe-note.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/adobe-note.svg">
-  <img src="./assets/light/adobe-note.svg" width="100%" alt="Identidade visual, interfaces, materiais gráficos, fotografia, vídeo e motion design.">
-</picture>
-</p>
+Illustrator · Photoshop · InDesign · Lightroom · After Effects · Premiere Pro · Media Encoder
+
+Identidade visual, interfaces, materiais gráficos, fotografia, vídeo e motion design.
 
 <br>
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/section-03.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/section-03.svg">
-  <img src="./assets/light/section-03.svg" width="540" alt="03 / Projetos selecionados">
-</picture>
-</p>
+## [03] Projetos selecionados
 
-<p align="left">
-<a href="https://github.com/rpoles12/halveo-dashboard">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/project-halveo.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/project-halveo.svg">
-  <img src="./assets/light/project-halveo.svg" width="400" alt="Halveo Dashboard. Protótipo para monitorar recursos industriais, investigar desvios e acompanhar ações. Interface web e branding.">
-</picture>
-</a>
-&ensp;
-<a href="https://github.com/rpoles12/site-ia-obeko">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/project-obeko.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/project-obeko.svg">
-  <img src="./assets/light/project-obeko.svg" width="400" alt="O BEKO · Scent AI. Catálogo de perfumes e consultoria conversacional para descobrir fragrâncias por perfil.">
-</picture>
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/rpoles12/vig.ia-os">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/project-vigia.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/project-vigia.svg">
-  <img src="./assets/light/project-vigia.svg" width="400" alt="VIG.IA OS · O arquivo corrompido. Escape room com documentos, pistas e uma assistente narrativa em um sistema fictício.">
-</picture>
-</a>
-&ensp;
-<a href="https://github.com/rpoles12/pilates-marcia">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/project-pilates.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/project-pilates.svg">
-  <img src="./assets/light/project-pilates.svg" width="400" alt="Pilates da Márcia. Aplicação para organizar aulas, registrar treinos e acompanhar calendário e progresso.">
-</picture>
-</a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Halveo Dashboard</h3>
+      <p>Protótipo de dashboard para monitorar recursos industriais, investigar desvios e acompanhar ações. Integra identidade de marca e interface do produto.</p>
+      <p>Interface web · Branding</p>
+      <p><a href="https://github.com/rpoles12/halveo-dashboard">Explorar projeto ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>O BEKO · Scent AI</h3>
+      <p>Catálogo de perfumes com consultoria conversacional para descobrir fragrâncias a partir de preferências e perfil.</p>
+      <p>Web design · Interface</p>
+      <p><a href="https://github.com/rpoles12/site-ia-obeko">Explorar projeto ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>VIG.IA OS</h3>
+      <p>Escape room com documentos, pistas e uma assistente narrativa em um sistema operacional fictício. A investigação avança por etapas.</p>
+      <p>Experiência interativa · JavaScript · Narrativa</p>
+      <p><a href="https://github.com/rpoles12/vig.ia-os">Explorar projeto ↗</a> · <a href="https://vigia-os-escape-room.vercel.app">Abrir experiência ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Pilates da Márcia</h3>
+      <p>Aplicação para organizar aulas de Pilates, registrar treinos e acompanhar calendário e progresso. Pensada para o celular e para a constância.</p>
+      <p>Mobile first · JavaScript · Design de produto</p>
+      <p><a href="https://github.com/rpoles12/pilates-marcia">Explorar projeto ↗</a> · <a href="https://pilates-marcia.vercel.app">Abrir aplicação ↗</a></p>
+    </td>
+  </tr>
+</table>
 
 <p align="left">
 <a href="https://vigia-os-escape-room.vercel.app">
@@ -320,14 +253,12 @@
 
 <br>
 
-<p align="left">
-<a href="mailto:rafaelpolesdesign@gmail.com">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/footer.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light/footer.svg">
-  <img src="./assets/light/footer.svg" width="620" alt="Vamos conversar. rafaelpolesdesign@gmail.com">
-</picture>
-</a>
-</p>
+## Contato
 
-<!-- Todos os elementos tipográficos usam Archivo Regular. Textos equivalentes estão nos atributos alt; fontes e créditos em assets/IDENTIDADE.md. -->
+Vamos conversar.
+
+[rafaelpolesdesign@gmail.com](mailto:rafaelpolesdesign@gmail.com)
+
+[Ruptive](https://rpoles12.github.io/site-ruptive/) · [LinkedIn](https://www.linkedin.com/in/rafael-poles-bb69a1251/) · [Behance](https://www.behance.net/rafaeldesign1)
+
+<!-- Capas, ícones e botões reutilizam os assets existentes. O conteúdo principal permanece em Markdown/HTML nativo; a fonte dos textos segue o tema do GitHub. -->
